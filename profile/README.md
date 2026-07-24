@@ -1,12 +1,56 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+# Ovotron
 
-**Here are some ideas to get you started:**
+**Open-source cybersecurity tools for SOC and blue-team workflows.**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[Website](https://www.ovotron.one) · [Email](mailto:admin@ovotron.one) · [Repositories](https://github.com/orgs/Ovotron-net/repositories)
+
+</div>
+
+---
+
+## About
+
+Ovotron builds practical open-source tooling for security operations — log analysis, threat monitoring, and network policy enforcement. We focus on blue-team workflows: detection, continuous monitoring, and intent-based controls that teams can run and extend themselves.
+
+Based in South Africa.
+
+---
+
+## Featured projects
+
+### [SentinelSIEM](https://github.com/Ovotron-net/SentinelSIEM)
+
+Lightweight, modular open-source SIEM for real-time log analysis and threat monitoring — built for SOC and blue-team workflows.
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/Ovotron-net/SentinelSIEM)
+[![Stars](https://img.shields.io/github/stars/Ovotron-net/SentinelSIEM?style=flat)](https://github.com/Ovotron-net/SentinelSIEM/stargazers)
+
+### [vigilant-chainsaw](https://github.com/Ovotron-net/vigilant-chainsaw)
+
+Intent-based continuous traffic monitor — evaluate live or offline IP traffic against declarative JSON policies, log violations as JSONL, notify via webhook, expose health/metrics, and optionally render `action=drop` rules into nftables.
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/Ovotron-net/vigilant-chainsaw)
+[![Stars](https://img.shields.io/github/stars/Ovotron-net/vigilant-chainsaw?style=flat)](https://github.com/Ovotron-net/vigilant-chainsaw/stargazers)
+
+---
+
+## Focus
+
+- Security monitoring & SIEM
+- Network traffic analysis
+- Intent-based policy enforcement
+- Blue-team / SOC tooling
+
+---
+
+## Connect
+
+| | |
+|---|---|
+| **Website** | [ovotron.one](https://www.ovotron.one) |
+| **Email** | [admin@ovotron.one](mailto:admin@ovotron.one) |
+| **GitHub** | [github.com/Ovotron-net](https://github.com/Ovotron-net) |
+
+Explore the repos, open issues, or start a discussion — contributions and feedback are welcome.
