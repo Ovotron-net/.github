@@ -1,6 +1,4 @@
-<div align="center">
- <div class="logo-wrap">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 804 138" role="img" aria-label="XV4LT logo">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 804 138" role="img" aria-label="XV4LT logo">
             <path fill="#f2f2ee" d="
       M0 0
       L62 68
@@ -68,13 +66,11 @@
       Z
     " />
         </svg>
-    </div>
+</div>
 
 # Ovotron
 
 **Open-source cybersecurity tools for SOC and blue-team workflows.**
-
-</div>
 
 ---
 
