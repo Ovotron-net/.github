@@ -109,8 +109,6 @@ Intent-based continuous traffic monitor — evaluate live or offline IP traffic 
 
 ## Connect
 
-| | |
-|---|---|
 | **Website** | [ovotron.net](https://www.ovotron.net) |
 | **Email** | [admin@ovotron.one](mailto:admin@ovotron.one) |
 | **GitHub** | [github.com/Ovotron-net](https://github.com/Ovotron-net) |
