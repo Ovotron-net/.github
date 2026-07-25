@@ -3,15 +3,13 @@
 
 **Open-source cybersecurity tools for SOC and blue-team workflows.**
 
-[Website](https://www.ovotron.net) · [Email](mailto:admin@ovotron.one) · [Repositories](https://github.com/orgs/Ovotron-net/repositories)
+[ovotron.net](https://www.ovotron.net) · [admin@ovotron.one](mailto:admin@ovotron.one) · [https://github.com/orgs/Ovotron-net/repositories](https://github.com/orgs/Ovotron-net/repositories)
 
 ---
 
 ## About
 
 Ovotron builds practical open-source tooling for security operations — log analysis, threat monitoring, and network policy enforcement. We focus on blue-team workflows: detection, continuous monitoring, and intent-based controls that teams can run and extend themselves.
-
-Based in South Africa.
 
 ---
 
@@ -44,8 +42,8 @@ Intent-based continuous traffic monitor — evaluate live or offline IP traffic 
 
 ## Connect
 
-| **Website** | [ovotron.net](https://www.ovotron.net) |
-| **Email** | [admin@ovotron.one](mailto:admin@ovotron.one) |
-| **GitHub** | [github.com/Ovotron-net](https://github.com/Ovotron-net) |
+[ovotron.net](https://www.ovotron.net)
+[admin@ovotron.one](mailto:admin@ovotron.one)
+[github.com/ovotron-net](https://github.com/Ovotron-net)
 
 Explore the repos, open issues, or start a discussion — contributions and feedback are welcome.
