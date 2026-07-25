@@ -84,8 +84,6 @@
 
 Ovotron builds practical open-source tooling for security operations — log analysis, threat monitoring, and network policy enforcement. We focus on blue-team workflows: detection, continuous monitoring, and intent-based controls that teams can run and extend themselves.
 
-Based in South Africa.
-
 ---
 
 ## Featured projects
