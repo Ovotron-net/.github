@@ -1,81 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 804 138" role="img" aria-label="XV4LT logo">
-<path fill="#f2f2ee" d="
-      M0 0
-      L62 68
-      L0 137
-      H46
-      L84 95
-      L124 137
-      H170
-      L47 1
-      Z
-
-      M170 0
-      L123 1
-      L96 32
-      L119 57
-      Z
-
-      M187 0
-      L257 136
-      L296 137
-      L228 1
-      Z
-
-      M367 0
-      H327
-      L286 79
-      L306 119
-      Z
-
-      M440 0
-      L364 88
-      V119
-      H456
-      L457 137
-      H494
-      V120
-      L512 119
-      V87
-      L494 86
-      V52
-      H457
-      L456 87
-      L410 86
-      L484 0
-      Z
-
-      M537 1
-      V137
-      H671
-      V104
-      L574 103
-      V1
-      Z
-
-      M651 0
-      V33
-      L803 32
-      L802 0
-      Z
-
-      M709 48
-      V137
-      H745
-      V48
-      Z
-    " />
-</svg>
+<!-- Theme-aware banners: dark wordmark on light UI, light wordmark on dark UI (transparent backgrounds). -->
+![Ovotron](ovotron_banner_light.png#gh-light-mode-only)
+![Ovotron](ovotron_banner_dark.png#gh-dark-mode-only)
 
 # Ovotron
 
 **Open-source cybersecurity tools for SOC and blue-team workflows.**
+
+[Website](https://www.ovotron.net) · [Email](mailto:admin@ovotron.one) · [Repositories](https://github.com/orgs/Ovotron-net/repositories)
 
 ---
 
 ## About
 
 Ovotron builds practical open-source tooling for security operations — log analysis, threat monitoring, and network policy enforcement. We focus on blue-team workflows: detection, continuous monitoring, and intent-based controls that teams can run and extend themselves.
+
+Based in South Africa.
 
 ---
 
