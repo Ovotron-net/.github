@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 804 138" role="img" aria-label="XV4LT logo">
-            <path fill="#f2f2ee" d="
+<path fill="#f2f2ee" d="
       M0 0
       L62 68
       L0 137
@@ -65,8 +65,7 @@
       V48
       Z
     " />
-        </svg>
-</div>
+</svg>
 
 # Ovotron
 
