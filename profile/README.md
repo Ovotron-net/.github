@@ -1,8 +1,5 @@
-<!-- Theme-aware banners: dark wordmark on light UI, light wordmark on dark UI (transparent backgrounds). -->
 ![Ovotron](ovotron_banner_light.png#gh-light-mode-only)
 ![Ovotron](ovotron_banner_dark.png#gh-dark-mode-only)
-
-# Ovotron
 
 **Open-source cybersecurity tools for SOC and blue-team workflows.**
 
