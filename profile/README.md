@@ -74,8 +74,6 @@
 
 **Open-source cybersecurity tools for SOC and blue-team workflows.**
 
-[Website](https://www.ovotron.net) · [Email](mailto:admin@ovotron.one) · [Repositories](https://github.com/orgs/Ovotron-net/repositories)
-
 </div>
 
 ---
@@ -117,7 +115,7 @@ Intent-based continuous traffic monitor — evaluate live or offline IP traffic 
 
 | | |
 |---|---|
-| **Website** | [ovotron.one](https://www.ovotron.one) |
+| **Website** | [ovotron.net](https://www.ovotron.net) |
 | **Email** | [admin@ovotron.one](mailto:admin@ovotron.one) |
 | **GitHub** | [github.com/Ovotron-net](https://github.com/Ovotron-net) |
 
