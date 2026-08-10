@@ -3,7 +3,7 @@
 
 **Open-source cybersecurity tools for SOC and blue-team workflows.**
 
-[ovotron.net](https://www.ovotron.net) · [admin@ovotron.one](mailto:admin@ovotron.one) · [https://github.com/orgs/Ovotron-net/repositories](https://github.com/orgs/Ovotron-net/repositories)
+[site](https://www.ovotron.net) · [mail](mailto:admin@ovotron.one) · [repo](https://github.com/orgs/Ovotron-net/repositories)
 
 ---
 
