@@ -15,13 +15,6 @@ Ovotron builds practical open-source tooling for security operations — log ana
 
 ## Featured projects
 
-### [SentinelSIEM](https://github.com/Ovotron-net/SentinelSIEM)
-
-Lightweight, modular open-source SIEM for real-time log analysis and threat monitoring — built for SOC and blue-team workflows.
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/Ovotron-net/SentinelSIEM)
-[![Stars](https://img.shields.io/github/stars/Ovotron-net/SentinelSIEM?style=flat)](https://github.com/Ovotron-net/SentinelSIEM/stargazers)
-
 ### [vigilant-chainsaw](https://github.com/Ovotron-net/vigilant-chainsaw)
 
 Intent-based continuous traffic monitor — evaluate live or offline IP traffic against declarative JSON policies, log violations as JSONL, notify via webhook, expose health/metrics, and optionally render `action=drop` rules into nftables.
